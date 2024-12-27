@@ -24,4 +24,4 @@ export class TicketComponent {
   onMarkAsCompleted() {
     this.close.emit();
   }
-} vcv
+}
