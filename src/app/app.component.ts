@@ -12,5 +12,5 @@ import { DashboardItemComponent } from './dashboard/dashboard-item/dashboard-ite
   imports: [HeaderComponent, ServerStatusComponent, TrafficComponent, TicketsComponent, DashboardItemComponent]
 })
 export class AppComponent {
-  
+
 }
